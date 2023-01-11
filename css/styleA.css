@@ -1,0 +1,36 @@
+body{
+    text-align: right;
+}
+.Hed {
+    margin-left: 0px !important;
+}
+nav ul {
+    float: right;
+}
+
+#logo a {
+     float: left;
+}
+.slide-img {
+    float: right;
+}
+.facilities-list {
+    direction: rtl
+}
+ .clearfix
+{
+
+    
+}
+.location {
+    margin-left: 5rem;
+    float: right;
+}
+.title{
+    float: right;
+}
+.detail ul li { float: right;}
+.comment h3, .comment-top h4 {
+    text-align: right;
+}
+    
